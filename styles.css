@@ -20,6 +20,10 @@ clear button disabled: #D0CDCD
 
 }
 
+h1 {
+  font-size: 55px;
+}
+
 header {
   display: flex;
   justify-content: center;
@@ -81,6 +85,13 @@ img {
 
 .answer, .question {
   display: none;
+}
+
+.submitStyle {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-top: 50px;
 }
 
 footer {
